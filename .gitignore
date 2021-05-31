@@ -1,0 +1,7 @@
+/venv
+/format_checker
+.idea
+/docreader/.env.local
+*.pyc
+/__pycache__/
+/docreader/media/
